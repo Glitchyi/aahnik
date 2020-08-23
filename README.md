@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Screenshot from 2020-08-23 15-18-56](https://user-images.githubusercontent.com/66209958/90975676-10cb6480-e554-11ea-869d-35275b8deec8.png)
 
-
+[![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&show_icons=true)](https://twitter.com/AahnikD)
+  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://medium.com/@aahnikdaw)
 
 
 - 🔭 I’m currently working on **many things**
@@ -15,5 +15,5 @@
 Note: These are the most used languages in my GitHub Repo and are not indicative of skill levels.
 
 
-[![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&show_icons=true)](https://twitter.com/AahnikD)
-  [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://medium.com/@aahnikdaw)
+
+![Screenshot from 2020-08-23 15-18-56](https://user-images.githubusercontent.com/66209958/90975676-10cb6480-e554-11ea-869d-35275b8deec8.png)
