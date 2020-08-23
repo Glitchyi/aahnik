@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Aahnik daw (2)](https://user-images.githubusercontent.com/66209958/90975635-a3b7cf00-e553-11ea-82fd-e51c860546fd.png)
 
 
 
