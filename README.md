@@ -13,7 +13,6 @@
 - ⚡ Fun fact: _I am 17_ 
 
 <center>
-    [![Top
-    Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://medium.com/@aahnikdaw)
+    [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://medium.com/@aahnikdaw)
 </center>
 
