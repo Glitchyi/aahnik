@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&count_private=true&show_icons=true)](https://twitter.com/AahnikD)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html)](https://medium.com/@aahnikdaw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html,java)](https://medium.com/@aahnikdaw)
 
 
 - 🔭 I’m currently working on **many things**
