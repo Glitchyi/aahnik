@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&show_icons=true)](https://twitter.com/AahnikD)
+[![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&count_private=true&show_icons=true)](https://twitter.com/AahnikD)
   [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://medium.com/@aahnikdaw)
 
 
