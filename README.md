@@ -12,5 +12,5 @@
 - 📫 How to reach me: **[Telegram](https://t.me/AahnikDaw)** or **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** or **[Twitter](https://twitter.com/AahnikD)**
 - ⚡ Fun fact: _I am 17_ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)](https://aahnik.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&layout=compact)
 
