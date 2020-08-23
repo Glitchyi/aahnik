@@ -12,7 +12,7 @@
 - 📫 How to reach me: **[Telegram](https://t.me/AahnikDaw)** or **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** or **[Twitter](https://twitter.com/AahnikD)**
 - ⚡ Fun fact: _I am 17_ 
 
-Note: These are the most used languages in my GitHub Repo and are not indicative of skill levels.
+
 
 
 
