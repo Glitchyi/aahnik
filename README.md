@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Aahnik daw (2)](https://user-images.githubusercontent.com/66209958/90975635-a3b7cf00-e553-11ea-82fd-e51c860546fd.png)
+![Screenshot from 2020-08-23 15-18-56](https://user-images.githubusercontent.com/66209958/90975676-10cb6480-e554-11ea-869d-35275b8deec8.png)
 
 
 
