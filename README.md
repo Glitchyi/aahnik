@@ -12,7 +12,7 @@
 - 📫 How to reach me: **[Telegram](https://t.me/AahnikDaw)** or **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** or **[Twitter](https://twitter.com/AahnikD)**
 - ⚡ Fun fact: _I am 17_ 
 
-
+[![CodeFactor](https://www.codefactor.io/repository/github/aahnik/aahnik/badge)](https://www.codefactor.io/repository/github/aahnik/aahnik)
 
 
 
