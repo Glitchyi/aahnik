@@ -16,4 +16,5 @@
 
 
 
-![Screenshot from 2020-08-23 15-18-56](https://user-images.githubusercontent.com/66209958/90975676-10cb6480-e554-11ea-869d-35275b8deec8.png)
+
+![LEGEND_20200903_240254.gif](https://user-images.githubusercontent.com/66209958/92022577-18bbad80-ed79-11ea-8f43-44ffe798d9d8.gif)
