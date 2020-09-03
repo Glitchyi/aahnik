@@ -10,6 +10,9 @@
 - 🤔 I’m looking for help with _idk_
 - 💬 Ask me about __whatever you feel__
 - 📫 How to reach me: **[Telegram](https://t.me/AahnikDaw)** or **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** or **[Twitter](https://twitter.com/AahnikD)**
+
+You can also email me at [meet.aahnik@gmail.com](mailto:meet.aahnik@gmail.com)
+
 - ⚡ Fun fact: _I am 17_ 
 
 [![CodeFactor](https://www.codefactor.io/repository/github/aahnik/aahnik/badge)](https://www.codefactor.io/repository/github/aahnik/aahnik)
