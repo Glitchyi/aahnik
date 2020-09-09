@@ -10,9 +10,8 @@
 
 - 🔭 I’m currently working on **many things**
 - 🌱 I’m currently learning *physics, chemistry, math, python, java, c, c++, dart, flutter, Vedanta and what not* ...
-- 👯 I’m looking to collaborate on _YouTube, GitHub, StartUp_
-- 🤔 I’m looking for help with _idk_
-- 💬 Ask me about __whatever you feel__
+- 👯 I’m looking to collaborate on _YouTube and GitHub_
+- 💬 Ask me Anything [link](https://github.com/aahnik/ama)
 
 
 - ⚡ Fun fact: _I am 17_ 
