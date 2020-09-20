@@ -15,7 +15,9 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/aahnik/aahnik/badge)](https://www.codefactor.io/repository/github/aahnik/aahnik)
 
 
-**[Telegram](https://t.me/AahnikDaw)** | **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** | **[Twitter](https://twitter.com/AahnikD)** | [**meet.aahnik@gmail.com**](mailto:meet.aahnik@gmail.com)
+**[Telegram](https://t.me/AahnikDaw)** | **[YouTube](https://www.youtube.com/channel/UCcEbN0d8iLTB6ZWBE_IDugg)** | **[Twitter](https://twitter.com/AahnikD)** | [**meet[dot]aahnik**](https://aahnik.github.io)
+> My email is a Gmail address. Append at the rate Gmail dot com, to meet[dot]aahnik
+
 
 ![LEGEND_20200903_240254.gif](https://user-images.githubusercontent.com/66209958/92022577-18bbad80-ed79-11ea-8f43-44ffe798d9d8.gif)
 
