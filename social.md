@@ -1,4 +1,4 @@
-
+<center>
 
 [![medium](https://github.com/aahnik/aahnik/blob/master/social_media_logos/medium.png?raw=true)](https://medium.com/@aahnikdaw)
 [![facebook](https://github.com/aahnik/aahnik/blob/master/social_media_logos/facebook.png?raw=true)](https://www.facebook.com/aahnik.daw)
@@ -10,3 +10,5 @@
 [![stackOverflow](https://github.com/aahnik/aahnik/blob/master/social_media_logos/stackOverflow.png?raw=true)](https://stackoverflow.com/users/13523305/aahnik-daw)
 [![dev](https://github.com/aahnik/aahnik/blob/master/social_media_logos/dev.png?raw=true)](https://dev.to/aahnik)
 
+
+</center>
