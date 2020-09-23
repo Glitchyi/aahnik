@@ -6,12 +6,19 @@ images = [file[:-4] for file in os.listdir('social_media_logos') if file.endswit
 with open('social_media_logos/links.yml') as f:
     link_dict = yaml.full_load(f)
 
+
 with open('social.md','w+') as f:
     f.write('<center>\n\n')
     for img in images:
         link = link_dict[img]
-        template = f'[![{img}](https://github.com/aahnik/aahnik/blob/master/social_media_logos/{img}.png?raw=true)]({link})\n'  
-        f.write(template)
+        
+        img_url = f'https://github.com/aahnik/aahnik/blob/master/social_media_logos/{img}.png?raw=true'
+        template = f'<a href = "{link}" > <img src = "{img_url}" alt = "{img}" > </a >'
+        f.write(f'{template}\n')
+
     f.write('\n\n</center>')
+
+
+
 
 
