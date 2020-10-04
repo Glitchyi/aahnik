@@ -27,7 +27,6 @@ Note: A nonexclusive license is  granted back to the contributor, a “grant-bac
 
 ---
 
-# Social
 
 <div align="center">
 
