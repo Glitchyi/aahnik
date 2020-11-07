@@ -1,8 +1,12 @@
+Common Badges
+
 [![Generic badge](https://img.shields.io/badge/subject-stat-<COLOR>.svg)](https://aahnik.github.io/)
 
+      [![Generic badge](https://img.shields.io/badge/subject-stat-<COLOR>.svg)](https://aahnik.github.io/)
 
 [![No Maintenance Intended | Archived](http://unmaintained.tech/badge.svg)](https://gitHub.com/aahnik/REPO/graphs/commit-activity)
 
+      [![No Maintenance Intended | Archived](http://unmaintained.tech/badge.svg)](https://gitHub.com/aahnik/REPO/graphs/commit-activity)
 
 [![Maintenance Yes](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://gitHub.com/aahnik/REPO/graphs/commit-activity)
 
