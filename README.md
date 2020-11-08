@@ -1,16 +1,17 @@
-### Hi there 👋
 
+<p align="center">
+  <h3> Hi there 👋 </h3>
+</p>
 
 
 
 <p align="center">
-  
-[![Aahnik's github stats](https://github-readme-stats.vercel.app/api?username=aahnik&count_private=true&show_icons=true)](https://twitter.com/AahnikD)
-
+<img src="https://github-readme-stats.vercel.app/api?username=aahnik&count_private=true&show_icons=true" alt="Aahnik's GitHub Stats">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html)](https://medium.com/@aahnikdaw)
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html" alt="Aahnik's  Language Stats">
+</p>
 
 
 
