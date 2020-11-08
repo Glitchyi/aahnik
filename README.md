@@ -1,7 +1,7 @@
 
-<p align="center">
-  <h3> Hi there 👋 </h3>
-</p>
+<h3 align="center">
+Hi there 👋
+</h3>
 
 
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html" alt="Aahnik's  Language Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html&layout=compact" alt="Aahnik's  Language Stats">
 </p>
 
 
