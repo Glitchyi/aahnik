@@ -10,6 +10,13 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aahnik&hide=html&layout=compact"
         alt="Aahnik's  Language Stats">
+    
+</p>
+
+</p>
+
+<p align="center">
+<a href="https://stackoverflow.com/users/13523305/aahnik-daw"><img src="https://stackoverflow.com/users/flair/13523305.png" width="208" height="58" alt="profile for Aahnik Daw at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Aahnik Daw at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
 
 
