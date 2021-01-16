@@ -32,3 +32,6 @@
 <a href = "https://github.com/aahnik" > <img src = "https://github.com/aahnik/aahnik/blob/master/svg_assets/github.svg?raw=true" alt = "github" width=35> </a>
 
 </p>
+
+If you love my work, or if you feel extremely generous for any reason, consider encouraging me by [donating some bitcoins](https://github.com/aahnik/aahnik/issues/3) or [starring my projects](https://github.com/aahnik?tab=repositories) on GitHub.
+
