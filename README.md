@@ -37,4 +37,4 @@
 
 <!-- If you love my work, or if you feel extremely generous for any reason, consider encouraging me by [donating some bitcoins](https://github.com/aahnik/aahnik/issues/3) or [starring my projects](https://github.com/aahnik?tab=repositories) on GitHub. -->
 
-![](https://raw.githubusercontent.com/aahnik/aahnik/master/promoted/general.gif)
+[![promoted](https://raw.githubusercontent.com/aahnik/aahnik/master/promoted/general.gif)](https://aahnik.github.io/aahnik/promoted/general.html)
